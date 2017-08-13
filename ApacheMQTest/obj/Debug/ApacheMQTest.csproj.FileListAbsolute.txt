@@ -1,0 +1,11 @@
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\bin\Debug\ApacheMQTest.exe.config
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\bin\Debug\ApacheMQTest.exe
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\bin\Debug\ApacheMQTest.pdb
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\bin\Debug\Apache.NMS.ActiveMQ.dll
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\bin\Debug\Apache.NMS.dll
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\obj\Debug\ApacheMQTest.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\obj\Debug\ApacheMQTest.Form1.resources
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\obj\Debug\ApacheMQTest.Properties.Resources.resources
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\obj\Debug\ApacheMQTest.csproj.GenerateResource.Cache
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\obj\Debug\ApacheMQTest.exe
+F:\visual studio 2013\Projects\消息队列\ApacheMQTest\ApacheMQTest\obj\Debug\ApacheMQTest.pdb
