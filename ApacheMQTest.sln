@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheMQTest", "ApacheMQTest\ApacheMQTest.csproj", "{F10BB31A-8074-4FAF-BDB0-16B2509975BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheConsumer", "ApacheConsumer\ApacheConsumer.csproj", "{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10BB31A-8074-4FAF-BDB0-16B2509975BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10BB31A-8074-4FAF-BDB0-16B2509975BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10BB31A-8074-4FAF-BDB0-16B2509975BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10BB31A-8074-4FAF-BDB0-16B2509975BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
