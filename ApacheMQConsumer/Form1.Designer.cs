@@ -34,7 +34,7 @@
             // lblReceiveMessage
             // 
             this.lblReceiveMessage.AutoSize = true;
-            this.lblReceiveMessage.Location = new System.Drawing.Point(137, 59);
+            this.lblReceiveMessage.Location = new System.Drawing.Point(106, 60);
             this.lblReceiveMessage.Name = "lblReceiveMessage";
             this.lblReceiveMessage.Size = new System.Drawing.Size(55, 15);
             this.lblReceiveMessage.TabIndex = 0;

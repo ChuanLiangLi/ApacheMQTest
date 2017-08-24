@@ -1,8 +1,6 @@
 F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\bin\Debug\ApacheMQConsumer.exe.config
 F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\bin\Debug\ApacheMQConsumer.exe
 F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\bin\Debug\ApacheMQConsumer.pdb
-F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\bin\Debug\Apache.NMS.ActiveMQ.dll
-F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\bin\Debug\Apache.NMS.dll
 F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\obj\Debug\ApacheMQConsumer.Form1.resources
 F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\obj\Debug\ApacheMQConsumer.Properties.Resources.resources
 F:\vs\projects\消息队列\ApacheMQTest\ApacheMQConsumer\obj\Debug\ApacheMQConsumer.csproj.GenerateResource.Cache
