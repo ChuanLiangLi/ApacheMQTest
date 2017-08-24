@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheMQTest", "ApacheMQTest\ApacheMQTest.csproj", "{561292D3-E05E-4383-8758-1C6752635988}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheMQConsumer", "ApacheMQConsumer\ApacheMQConsumer.csproj", "{43C3E860-59BB-4372-B758-0410F7B93C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheConsumer", "ApacheConsumer\ApacheConsumer.csproj", "{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{561292D3-E05E-4383-8758-1C6752635988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{561292D3-E05E-4383-8758-1C6752635988}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{561292D3-E05E-4383-8758-1C6752635988}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{561292D3-E05E-4383-8758-1C6752635988}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43C3E860-59BB-4372-B758-0410F7B93C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43C3E860-59BB-4372-B758-0410F7B93C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43C3E860-59BB-4372-B758-0410F7B93C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43C3E860-59BB-4372-B758-0410F7B93C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

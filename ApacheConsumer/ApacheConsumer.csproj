@@ -1,30 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-=======
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
->>>>>>> 89c4137b9113002da64dc3839c1a82901d2a5489
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{561292D3-E05E-4383-8758-1C6752635988}</ProjectGuid>
-=======
-    <ProjectGuid>{F10BB31A-8074-4FAF-BDB0-16B2509975BC}</ProjectGuid>
->>>>>>> 89c4137b9113002da64dc3839c1a82901d2a5489
+    <ProjectGuid>{6621EE80-FFCA-4F41-8106-4E8B123ECE9E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ApacheMQTest</RootNamespace>
-    <AssemblyName>ApacheMQTest</AssemblyName>
-<<<<<<< HEAD
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
-    <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-=======
+    <RootNamespace>ApacheConsumer</RootNamespace>
+    <AssemblyName>ApacheConsumer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
->>>>>>> 89c4137b9113002da64dc3839c1a82901d2a5489
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -47,10 +33,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Apache.NMS">
-      <HintPath>lib\Apache.NMS.dll</HintPath>
+      <HintPath>..\ApacheMQTest\lib\Apache.NMS.dll</HintPath>
     </Reference>
     <Reference Include="Apache.NMS.ActiveMQ">
-      <HintPath>lib\Apache.NMS.ActiveMQ.dll</HintPath>
+      <HintPath>..\ApacheMQTest\lib\Apache.NMS.ActiveMQ.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -60,17 +46,11 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
-<<<<<<< HEAD
-    <Reference Include="System.Net.Http" />
-=======
->>>>>>> 89c4137b9113002da64dc3839c1a82901d2a5489
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Form1.cs" />
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
